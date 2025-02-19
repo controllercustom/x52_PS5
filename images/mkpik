@@ -1,0 +1,2 @@
+#!/bin/sh
+pikchr --svg-only block_diag.pik | sed 's/^<svg/<svg width="256"/' >block_diag.svg

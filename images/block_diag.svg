@@ -1,0 +1,20 @@
+<svg width="256" xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 196.474 287.28">
+<path d="M2.16,32.4L194.314,32.4L194.314,2.16L2.16,2.16Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="98.2368" y="17.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Logitech X52 joystick</text>
+<polygon points="98.2368,86.4 93.9168,74.88 102.557,74.88" style="fill:rgb(0,0,0)"/>
+<path d="M98.2368,32.4L98.2368,80.64"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="98.2368" y="59.4" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB   cable</text>
+<path d="M35.3376,116.64L161.136,116.64L161.136,86.4L35.3376,86.4Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="98.2368" y="101.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">hid-remapper</text>
+<polygon points="98.2368,170.64 93.9168,159.12 102.557,159.12" style="fill:rgb(0,0,0)"/>
+<path d="M98.2368,116.64L98.2368,164.88"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="98.2368" y="143.64" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB   cable</text>
+<path d="M24.048,200.88L172.426,200.88L172.426,170.64L24.048,170.64Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="98.2368" y="185.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Wingman FGC 2</text>
+<polygon points="98.2368,254.88 93.9168,243.36 102.557,243.36" style="fill:rgb(0,0,0)"/>
+<path d="M98.2368,200.88L98.2368,249.12"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="98.2368" y="227.88" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">USB   cable</text>
+<path d="M36.7776,285.12L159.696,285.12L159.696,254.88L36.7776,254.88Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="98.2368" y="270" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">PlayStation 5</text>
+</svg>
+
