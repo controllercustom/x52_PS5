@@ -1,8 +1,9 @@
     down
-    box "Logitech X52 joystick" fill Bisque fit
+X52:box "Logitech X52 joystick" fill Bisque fit
     arrow 75% "USB   cable"
     box "hid-remapper" fill Bisque fit
-    arrow 75% "USB   cable"
+MID:arrow 75% "USB   cable"
     box "Wingman FGC 2" fill Bisque fit
     arrow 75% "USB   cable"
-    box "PlayStation 5" fill Bisque fit
+PS5:box "PlayStation 5" fill Bisque fit
+    box ht (X52.n.y-PS5.s.y+0.50) wid X52.wid+0.50 at MID behind X52 fill 0xF0F0F0 fit
